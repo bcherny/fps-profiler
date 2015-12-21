@@ -1,0 +1,29 @@
+{
+  "name": "fps-profiler",
+  "version": "1.0.0",
+  "authors": [
+    "Boris Cherny <boris@performancejs.com>"
+  ],
+  "description": "simple frame rate profiler for browsers",
+  "main": "index.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "fps",
+    "frame",
+    "time",
+    "rate",
+    "framerate",
+    "smooth",
+    "jitter",
+    "requestanimationframe",
+    "browser",
+    "chrome"
+  ],
+  "license": "CC-BY-4.0",
+  "homepage": "https://github.com/bcherny/fps-profiler",
+  "dependencies": {
+    "browser-profiler": "~1.0.0"
+  }
+}
